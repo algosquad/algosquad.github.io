@@ -164,7 +164,7 @@
     .header-navigation ul.navigation-box li a .sub-nav-toggler {
         background-color: transparent;
         background-image: none;
-        border: 1px solid #ff8257;
+        border: 1px solid #0071BC;
         border-radius: 4px;
         padding: 9px 9px;
         position: absolute;
@@ -181,7 +181,7 @@
     }
 
     .header-navigation .navigation-box .sub-nav-toggler .icon-bar {
-        background-color: #ff8257;
+        background-color: #0071BC;
         border-radius: 1px;
         display: block;
         height: 1px;
@@ -295,7 +295,7 @@
     }
 
     .site-header.header-one .header-navigation .container .menu-toggler {
-        color: #ff8257;
+        color: #0071BC;
     }
 
     .site-header.header-one .header-navigation ul.navigation-box>li {
